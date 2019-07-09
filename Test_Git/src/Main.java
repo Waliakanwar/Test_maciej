@@ -8,6 +8,7 @@ public class Main {
 		System.out.println("test version 1.4 von  Maciej");
 		System.out.println("test version 1 von Kanvar");
 		System.out.println("test version 2 von Kanvar");
+		System.out.println("test version 2 von Kanvar");
 	
 
 	}
